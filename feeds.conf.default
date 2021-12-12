@@ -13,4 +13,3 @@ src-git helloworld https://github.com/fw876/helloworld
 src-git lienol https://github.com/Lienol/openwrt-package
 src-git jerryk https://github.com/jerrykuku/openwrt-package
 src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall
-src-git argon-dark https://github.com/kevin-morgan/luci-theme-argon-dark.git
