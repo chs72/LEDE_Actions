@@ -12,4 +12,5 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git lienol https://github.com/Lienol/openwrt-package
 src-git jerryk https://github.com/jerrykuku/openwrt-package
-src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall
+src-git PWpackages https://github.com/xiaorouji/openwrt-passwall.git;packages
+src-git PWluci https://github.com/xiaorouji/openwrt-passwall.git;luci
